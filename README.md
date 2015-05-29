@@ -12,6 +12,7 @@ Turn _This_
             'label' => 'LBL_MULTIENUM',
           ),
 ```
+![Multi-Select](/images/multiselect.png)
 
 _Into_
 
@@ -22,6 +23,7 @@ _Into_
             'label' => 'LBL_MULTIENUM',
           ),
 ```
+![Multi-Select](/images/checkboxes.png)
 
 You can also include **displayParams**
 ```php
